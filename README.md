@@ -3,9 +3,9 @@
  Projekt-Maze :chart_with_upwards_trend:
 Strona:
 
- https://kubakonieczny.github.io/
+<!-- https://kubakonieczny.github.io/-->
  
- <!--https://kubakonieczny.github.io/KubaKonieczny/-->
+ https://kubakonieczny.github.io/KubaKonieczny/
  
  Fork:
  
