@@ -5,7 +5,7 @@ Strona:
 
  https://kubakonieczny.github.io/
  
- https://kubakonieczny.github.io/KubaKonieczny/
+ <!--https://kubakonieczny.github.io/KubaKonieczny/-->
  
  Fork:
  
