@@ -21,6 +21,9 @@ I'm constantly learning new things in the field of ML, AI, and data science. Her
 - [Resource 3](link): A blog post on data visualization techniques.
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project related to ML, AI, or data science. You can contact me via 
 --->
+
+## Current Projects
+
 ## Contact
 
  [LinkedIn](https://www.linkedin.com/in/jakub-konieczny-285939226/).
