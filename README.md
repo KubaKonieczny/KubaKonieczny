@@ -22,6 +22,8 @@ I'm constantly learning new things in the field of ML, AI, and data science. Her
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project related to ML, AI, or data science. You can contact me via 
 --->
 
+<!---
+
 ## Current Projects
 
 ## Contact
