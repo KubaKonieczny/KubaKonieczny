@@ -2,7 +2,7 @@
 # Hi there, I'm Kuba 👋
 
 I'm a student of Computer Science and Inteligent Systems at AGH University of Science and Technology in Cracow, Poland. I'm interested in machine learning, artificial intelligence, and data science. 
-<!---This GitHub profile is a place where I share my projects and learning experiences related to these topics. --->
+<!---This GitHub profile is a place where I share my projects and learning experiences related to these topics. 
 
 ## Projects
 
@@ -38,7 +38,7 @@ Strona:
  
  https://kubakonieczny.github.io/KubaKonieczny/
  
- 
+ --->
 <!--
 **KubaKonieczny/KubaKonieczny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
